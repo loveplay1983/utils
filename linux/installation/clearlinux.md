@@ -3,3 +3,5 @@
     Solution:
     * linux, /path_to_vm_disks_location
     * windows, c:\Users\username\Documents\VirtualMchines_location
+
+3. [EFI](https://wiki.archlinux.org/index.php/EFI_system_partition)
